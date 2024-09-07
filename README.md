@@ -4,7 +4,7 @@ flutter floyd_steinberg
 
 ## Getting Started
 
-这是一个floyd_steinberg算法的flutter dart语言
+这是一个floyd_steinberg算法的flutter版本
 
 原图：
 
