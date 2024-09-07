@@ -4,13 +4,22 @@ flutter floyd_steinberg
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+这是一个floyd_steinberg算法的flutter dart语言
 
-A few resources to get you started if this is your first Flutter project:
+原图：
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![2](assets/images/2.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+抖动后效果：三色 黑白红
+
+
+
+![2_result](assets/images/2_result.jpeg)
+
+原图：
+
+![1](assets/images/1.jpeg)
+
+抖动后效果：七色
+
+![1_result](assets/images/1_result.jpeg)
